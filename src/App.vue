@@ -11,7 +11,7 @@ import HelloWorld from '@/components/HelloWorld.vue'
       <HelloWorld msg="You did it!" />
 
       <nav>
-        <RouterLink to="/">Home</RouterLink>
+        <RouterLink to="/" class="text-yellow-400">Home</RouterLink>
         <RouterLink to="/about">About</RouterLink>
       </nav>
     </div>
@@ -22,6 +22,7 @@ import HelloWorld from '@/components/HelloWorld.vue'
 
 <style>
 @import '@/assets/base.css';
+@import '@/css/index.css';
 
 #app {
   max-width: 1280px;
