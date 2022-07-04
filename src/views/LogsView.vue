@@ -24,15 +24,11 @@ import { ArrowLeftIcon } from '@heroicons/vue/solid'
   <div class="absolute w-full h-full bg-slate-800">
     <div class="relative flex flex-col w-full h-full items-center justify-start gap-y-8 my-10 bg-slate-800">
       <div class="flex flex-col justify-start bg-slate-600 rounded-[20px] p-6 gap-8 w-1/2">
-        <h1 class="text-white font-bold text-xl">About Me</h1>
-        <p class="text-white">An undergraduate student Informatics Engineer at Amikom Yogyakarta University. I have
-          good problem-solving, logical thinking, and communication skills. Develop Web App using
-          javascript mostly. Very interested in making programs simple, fast, and more efficient by
-          using data structures and algorithms. I have good health, discipline and want to learn new
-          things. Looking for Software Engineer position in good environment.</p>
+        <h1 class="text-white font-bold text-xl">Logs</h1>
+        <p class="text-white"></p>
       </div>
       <div class="flex flex-col justify-start bg-slate-600 rounded-[20px] p-6 gap-8 w-1/2">
-        <h1 class="text-white font-bold text-xl">Personal Information</h1>
+        <h1 class="text-white font-bold text-xl">Project</h1>
         <div class="grid grid-cols-1 divide-y-2 text-white align-text-bottom">
           <span class="pb-1">Age : 21 years old</span>
           <span class="pt-2 pb-1">Email : zhafranjupleks5758@gmail.com</span>
