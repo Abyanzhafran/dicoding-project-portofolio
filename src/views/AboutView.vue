@@ -10,7 +10,8 @@ import { ArrowLeftIcon } from '@heroicons/vue/solid'
       </button>
       <RouterLink to="/" class="pl-4">
         <div class="w-10 h-10">
-          <img class="rounded-full" src="profile-picture.jpg" />
+          <img class="rounded-full"
+            src="https://storage.googleapis.com/cogent-tempo-351103.appspot.com/profile-picture.jpg" />
         </div>
       </RouterLink>
       <div />
