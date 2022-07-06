@@ -1,13 +1,9 @@
-<script setup>
-
-</script>
-
 <template>
   <main>
     <div class="absolute w-full h-screen bg-slate-800"></div>
     <div class="relative flex flex-col w-full h-screen items-center justify-center gap-y-4">
       <div class="w-32 h-32">
-        <img class="rounded-full" src="https://randomuser.me/api/portraits/men/81.jpg" />
+        <img class="rounded-full" src="profile-picture.jpg" />
       </div>
       <div class="flex flex-col items-center gap-2">
         <span class="text-white font-bold text-2xl">Hello, I'm Zhafran</span>

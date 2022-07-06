@@ -10,7 +10,7 @@ import { ArrowLeftIcon } from '@heroicons/vue/solid'
       </button>
       <RouterLink to="/" class="pl-4">
         <div class="w-10 h-10">
-          <img class="rounded-full" src="https://randomuser.me/api/portraits/men/81.jpg" />
+          <img class="rounded-full" src="profile-picture.jpg" />
         </div>
       </RouterLink>
       <div />
@@ -21,7 +21,7 @@ import { ArrowLeftIcon } from '@heroicons/vue/solid'
       <div />
     </nav>
   </header>
-  <div class="absolute w-full h-screen bg-slate-800">
+  <div class="absolute w-full h-auto bg-slate-800">
     <div class="relative flex flex-col w-full h-auto items-center justify-start gap-y-8 my-12 bg-slate-800">
       <div class="flex flex-col justify-start bg-slate-600 rounded-[20px] p-6 gap-5 w-5/6 md:w-1/2">
         <h1 class="text-white font-bold text-xl">Education</h1>

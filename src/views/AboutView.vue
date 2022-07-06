@@ -10,7 +10,7 @@ import { ArrowLeftIcon } from '@heroicons/vue/solid'
       </button>
       <RouterLink to="/" class="pl-4">
         <div class="w-10 h-10">
-          <img class="rounded-full" src="https://randomuser.me/api/portraits/men/81.jpg" />
+          <img class="rounded-full" src="profile-picture.jpg" />
         </div>
       </RouterLink>
       <div />
