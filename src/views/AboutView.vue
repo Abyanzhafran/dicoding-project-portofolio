@@ -17,7 +17,7 @@ import { ArrowLeftIcon } from '@heroicons/vue/solid'
       <div />
       <div class="flex gap-4 pr-14">
         <RouterLink to="/about" class="text-white text-lg font-semibold">About</RouterLink>
-        <RouterLink to="/logs" class="text-white text-lg font-semibold">Logs</RouterLink>
+        <RouterLink to="/experience" class="text-white text-lg font-semibold">Experience</RouterLink>
       </div>
       <div />
     </nav>
