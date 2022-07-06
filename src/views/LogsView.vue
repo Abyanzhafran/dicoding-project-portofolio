@@ -21,9 +21,9 @@ import { ArrowLeftIcon } from '@heroicons/vue/solid'
       <div />
     </nav>
   </header>
-  <div class="absolute w-full h-auto bg-slate-800">
+  <div class="absolute w-full h-screen bg-slate-800">
     <div class="relative flex flex-col w-full h-auto items-center justify-start gap-y-8 my-12 bg-slate-800">
-      <div class="flex flex-col justify-start bg-slate-600 rounded-[20px] p-6 gap-8 w-1/2">
+      <div class="flex flex-col justify-start bg-slate-600 rounded-[20px] p-6 gap-5 w-5/6 md:w-1/2">
         <h1 class="text-white font-bold text-xl">Education</h1>
         <div>
           <span class="text-white text-lg font-semibold">Amikom Yogyakarta University</span>
@@ -34,7 +34,7 @@ import { ArrowLeftIcon } from '@heroicons/vue/solid'
           </ul>
         </div>
       </div>
-      <div class="flex flex-col justify-start bg-slate-600 rounded-[20px] p-6 gap-12 w-1/2">
+      <div class="flex flex-col justify-start bg-slate-600 rounded-[20px] p-6 gap-10 w-5/6 md:w-1/2">
         <h1 class="text-white font-bold text-xl">Organization and Project Experience</h1>
         <div class="flex flex-col gap-5">
           <div>
