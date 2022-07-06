@@ -19,13 +19,13 @@
         </div>
       </RouterLink>
       <div class="flex gap-4 mt-6">
-        <button>
+        <button onclick="window.open('https://github.com/Abyanzhafran')">
           <img src="github_logo.png" class="w-14 h-14">
         </button>
-        <button>
+        <button onclick="window.open('https://www.linkedin.com/in/zhafran-daffa-47b8491a0/')">
           <img src="linkedin_logo.png" class="w-9 h-9">
         </button>
-        <button>
+        <button onclick="window.open('https://www.instagram.com/abyanzhafran__/')">
           <img src="instagram_logo.png" class="w-12 h-12">
         </button>
       </div>
